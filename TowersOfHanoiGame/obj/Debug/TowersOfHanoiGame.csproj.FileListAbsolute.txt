@@ -1,0 +1,12 @@
+C:\Users\cg2lab\Desktop\game\TowersOfHanoi_CSharpDemo-master\TowersOfHanoiGame\bin\Debug\TowersOfHanoiGame.exe.config
+C:\Users\cg2lab\Desktop\game\TowersOfHanoi_CSharpDemo-master\TowersOfHanoiGame\bin\Debug\TowersOfHanoiGame.exe
+C:\Users\cg2lab\Desktop\game\TowersOfHanoi_CSharpDemo-master\TowersOfHanoiGame\bin\Debug\TowersOfHanoiGame.pdb
+C:\Users\cg2lab\Desktop\game\TowersOfHanoi_CSharpDemo-master\TowersOfHanoiGame\obj\Debug\TowersOfHanoiGame.csprojAssemblyReference.cache
+C:\Users\cg2lab\Desktop\game\TowersOfHanoi_CSharpDemo-master\TowersOfHanoiGame\obj\Debug\TowersOfHanoiGame.exe
+C:\Users\cg2lab\Desktop\game\TowersOfHanoi_CSharpDemo-master\TowersOfHanoiGame\obj\Debug\TowersOfHanoiGame.pdb
+C:\Users\cg2lab\Documents\SlofinCWork\ToH\TowersOfHanoiGame\bin\Debug\TowersOfHanoiGame.exe.config
+C:\Users\cg2lab\Documents\SlofinCWork\ToH\TowersOfHanoiGame\bin\Debug\TowersOfHanoiGame.exe
+C:\Users\cg2lab\Documents\SlofinCWork\ToH\TowersOfHanoiGame\bin\Debug\TowersOfHanoiGame.pdb
+C:\Users\cg2lab\Documents\SlofinCWork\ToH\TowersOfHanoiGame\obj\Debug\TowersOfHanoiGame.csprojAssemblyReference.cache
+C:\Users\cg2lab\Documents\SlofinCWork\ToH\TowersOfHanoiGame\obj\Debug\TowersOfHanoiGame.exe
+C:\Users\cg2lab\Documents\SlofinCWork\ToH\TowersOfHanoiGame\obj\Debug\TowersOfHanoiGame.pdb

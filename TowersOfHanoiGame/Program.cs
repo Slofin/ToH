@@ -8,11 +8,16 @@ namespace TowersOfHanoiGame
 {
     class HanoiGame
     {
-        public void Run()
+
+        int disk = -1;
+        int from = -1;
+        int to = -1;
+        int aux = -1;
+
+        public void Setup()
         {
             //輸入高度
 
-            int disk = 0;
 
             Console.WriteLine("請輸入河內塔的高度：");
 
@@ -39,17 +44,21 @@ namespace TowersOfHanoiGame
                 {
                     break;
                 }
+
+
+
+
             }
 
 
 
             Console.WriteLine("起始地的柱子:(1,2,3)");
 
-            int from = GetInput(1, 3);
+            from = GetInput(1, 3);
 
             Console.WriteLine("目的地的柱子：(1,2,3)");
 
-            int to = GetInput(1, 3);
+            to = GetInput(1, 3);
 
 
             #region // 取得 第三柱子
@@ -57,7 +66,7 @@ namespace TowersOfHanoiGame
              *      輸入 1 2  得到  3
              *      輸入 2 3  得到  1
              */
-            int aux = 0;
+            aux = 0;
             int[] temp = { 1, 2, 3 };
             foreach (int item in temp)
             {
@@ -69,9 +78,15 @@ namespace TowersOfHanoiGame
             }
             #endregion
 
-            Hanoi(disk, from, to, aux);
+
+
+
         }
 
+        public void Play()
+        {
+            Hanoi(disk, from, to, aux);
+        }
 
 
         //參考演算法: http://notepad.yehyeh.net/Content/DS/CH02/4.php

@@ -8,12 +8,13 @@ namespace TowersOfHanoiGame
 {
     class Game
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             HanoiGame game = new HanoiGame();
-            game.Run();
 
-            Console.WriteLine("完成，請按下任意鍵離開...");
+            game.Setup();
+            game.Play();
+
             Console.ReadKey();
         }
     }
